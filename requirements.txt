@@ -4,3 +4,6 @@ seaborn
 plotly
 yfinance
 matplotlib
+scikit-learn
+keras
+keras-nlp
